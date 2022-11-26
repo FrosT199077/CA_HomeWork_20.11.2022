@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.exe
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.deps.json
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.runtimeconfig.json
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.runtimeconfig.dev.json
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.dll
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\bin\Debug\netcoreapp3.1\CA_HomeWork_5_14.pdb
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.AssemblyInfo.cs
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.dll
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.pdb
+C:\Users\User\source\repos\CA_HomeWork_5_1\CA_HomeWork_5_14\obj\Debug\netcoreapp3.1\CA_HomeWork_5_14.genruntimeconfig.cache
